@@ -34,8 +34,17 @@ This is where i used Pivot table to analyze the data.
 
 
 
+
+
+
 ###Findings
 
+
+
+
+
+###Insight
+Products with extremely high discounts (>80%) tend to have lower average ratings.
 
 
 
