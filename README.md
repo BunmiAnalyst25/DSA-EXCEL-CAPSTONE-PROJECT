@@ -34,10 +34,25 @@ This is where i used Pivot table to analyze the data.
 
 
 
+![Analysis Table](https://github.com/user-attachments/assets/38fff854-b423-4ce5-9672-baab24fc8cb7)
+
+
+
+
+
+![Analysis Table 2](https://github.com/user-attachments/assets/997f4179-1bee-4165-b54a-557445450cdc)
+
+
+
 
 
 
 ###Findings
+
+
+
+
+![DASHBOARD](https://github.com/user-attachments/assets/0e6482f2-7b79-443e-a56a-e8d32ef9a2be)
 
 
 
