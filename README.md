@@ -28,5 +28,7 @@ Second Project worked on during my DSA trainint @ The Incubator Hub
 13. Which categories have products with the highest discounts?
 14. Identify the top 5 products in terms of rating and number of reviews combined.
     Finally Dashboard Creation:Using the cleaned dataset and pivot outputs to build an Excel dashboard.
+### Data Analysis
+This is where i used Pivot table to analyze the data.
 
 
