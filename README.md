@@ -43,6 +43,11 @@ This is where i used Pivot table to analyze the data.
 ![Analysis Table 2](https://github.com/user-attachments/assets/997f4179-1bee-4165-b54a-557445450cdc)
 
 
+![Pivort Table ](https://github.com/user-attachments/assets/d6cfde86-39f4-49e9-bcf1-b33e9f9bee76)
+
+
+
+
 
 
 
@@ -52,7 +57,8 @@ This is where i used Pivot table to analyze the data.
 
 
 
-![DASHBOARD](https://github.com/user-attachments/assets/0e6482f2-7b79-443e-a56a-e8d32ef9a2be)
+![REPORT](https://github.com/user-attachments/assets/8577b9e3-b098-4825-9531-3bf1248c3139)
+
 
 
 
