@@ -65,7 +65,29 @@ This is where i used Pivot table to analyze the data.
 
 
 ###Insight
-Products with extremely high discounts (>80%) tend to have lower average ratings.
+o	Electronics and Computers & Accessories dominate in potential revenue (₹97B and ₹12B respectively) and number of reviews.
+o	Multiple Amazon Basics products lead in both rating and volume of reviews, indicating strong customer trust and repeat purchases.
+o	Over 60% of products are rated 4.0 to 4.3, signaling general customer satisfaction.
+o	Products with very high discounts (80–90%) show lower ratings, suggesting possible quality concerns or inflated pricing tactics.
+o	A few top-rated products (HDMI cables, earphones) generate disproportionate engagement.
+o	High-performing SKUs combine strong ratings with massive review counts, driving visibility and sales.
+o	Most products fall into the ₹200–₹500 or >₹500 price buckets.
+o	311 products have <1,000 reviews — these may be new, under-marketed, or underperforming.
+
+
+
+
+
+
+### Recommendation
+   -	Prioritize marketing for high-rated, high-review products in Electronics and Accessories.
+   -	Bundle or cross-sell with similar items to increase cart value.
+   -	Investigate products with >80% discounts and poor ratings. These may harm brand perception and should be re-evaluated.
+   -	Focus on the ₹200–₹500 segment where many strong products exist with room for growth.
+   -	Use promotional campaigns to increase visibility and reviews for those <1,000-review products.
+   -	Analyze review content of top-rated and low-rated products to extract specific improvement or marketing cues (e.g.,             durability, compatibility).
+   -	Offer moderate discounts (20–50%) which maintain high ratings and attract conversions, avoiding over-reliance on deep cuts.
+
 
 
 
